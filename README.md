@@ -12,7 +12,7 @@ Tested with python 2.7.2.
 ```python
 import mtwr
 urls = ['https://www.google.com', 'http://www.python.org', 'ftp://mirrors.kernel.org']
-results = mtwr.request_urls(test_urls, timeout=15, force_ipv4=True)
+results = mtwr.request_urls(urls, timeout=15, force_ipv4=True)
 # {url1: data1, url2: data2, ...}
 ```
 
