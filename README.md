@@ -1,4 +1,4 @@
-mtwr - Multi-Threaded Web Requests
+mtwr - Multi-Threaded Web Requests [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=shazbits_mtwr&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=shazbits_mtwr)
 ==================================
 
 Simple python module that exposes a single function to execute web requests in parallel.
